@@ -15,7 +15,7 @@ The following results have been uncovered:
 - From the total amount of retiring staff (72,458), only 1549 are eligible for the mentorship program
 
 ## Total Amount of Employees based on Gender
-![Retiring titles](Resources/total_employees.png)
+![Retiring titles]('Resources/total_employees.png')
 
 ## Breakdown of Retiring Staff based on Job Titles 
 ![Retiring titles](Resources/retiring_titles.png)
