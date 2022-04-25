@@ -1,13 +1,9 @@
 # Pewlett-Hackard-Analysis
 
-For this part of the Challenge, you’ll write a report to help the manager prepare for the upcoming "silver tsunami."
-
-The analysis should contain the following:
-
-# Overview 
+## Overview 
 This analysis has been conducted to provide insight on staff who are retiring from Pwelett-Hackard. This analysis aided in creating a mentorship program to reduce the potential detrementous impact of having a large amount of employees who were born between January 1, 1952 and December 31, 1955, retire at the same time. A mentorship program for eligble employees who were born between January 1, 1965 and December 31, 1965, could help reduce the loss of employees.  
 
-# Results
+## Results
 The following results have been uncovered:
 - Out of all 300024 employees, 72,458 staff are retiring. This means 24.15% of the entire staff population will be retiring. 
 - Staff  will be retiring from the following 7 job titles: Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer, and Manager
@@ -23,7 +19,7 @@ The following results have been uncovered:
 #### Breakdown of Staff eligible for Mentorship Program
 ![Retiring titles](Resources/eligible_mentors.PNG)
 
-# Summary
+## Summary
 
 ### Potential Vacant Positions
 Based on the analysis, 72,458 staff members are eligible for retirement. Over 72,450 positions across the company are at risk of becoming vacant once the 'silver tsunami' begins. 
