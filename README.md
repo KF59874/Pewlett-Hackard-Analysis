@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview 
-This analysis has been conducted to provide insight on staff who are retiring from Pwelett-Hackard. This analysis aided in creating a mentorship program to reduce the potential detrementous impact of having a large amount of employees who were born between January 1, 1952 and December 31, 1955, retire at the same time. A mentorship program for eligble employees who were born between January 1, 1965 and December 31, 1965, could help reduce the loss of employees.  
+This analysis has been conducted to provide insight on staff who are retiring from Pewlett-Hackard. This analysis aided in creating a mentorship program to reduce the potential detrementous impact of having a large amount of employees who were born between January 1, 1952 and December 31, 1955, retire at the same time. A mentorship program for eligble employees who were born between January 1, 1965 and December 31, 1965, could help reduce the impacts of losing a large amount of employees.  
 
 ## Results
 The following results have been uncovered:
